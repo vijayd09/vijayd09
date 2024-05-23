@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="https:// vijayd09.com" target="blank">
+ <a href="https://www.vitechharbor.com/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt=" vijayd09" />
  </a>
  <a href="https://www.linkedin.com/in/vijay-dhulgande-134580250" target="_blank">
