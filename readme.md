@@ -13,7 +13,7 @@
  -->
 
 <a href="https://komarev.com/ghpvc/?username= vijayd09">
-  <img align="right" src="https://komarev.com/ghpvc/?username= vijayd09&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username= vijayd09 &label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -50,7 +50,7 @@
  <a href="https://twitter.com/_ vijayd09" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_ vijayd09" target="_blank">
+ <a href="https://www.instagram.com/vijaykumarr_09" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt=" vijayd09" />
  </a> 
  <a href="https://facebook.com/ vijayd09.dev" target="_blank">
