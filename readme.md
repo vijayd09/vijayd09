@@ -14,7 +14,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=vijayd09&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_USER_ID)
+[![wakatime](https://wakatime.com/badge/user/vijaydhulgande828@gmail.com.svg)](https://wakatime.com/vijaydhulgande828@gmail.com)
 
 <!-- Intro Section -->
 <h3 align="center">
